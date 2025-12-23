@@ -1,6 +1,7 @@
 ## Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=F74492&width=435&lines=go%E6%98%AF%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80%EF%BC%81%EF%BC%81%EF%BC%81" alt="Typing SVG" /></a>
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=lucky798213&amp;show_icons=true&amp;theme=tokyonight)
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky798213&theme=github-compact&hide_border=true&area=true" />
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=lucky798213&amp;layout=compact&amp;theme=tokyonight)
 <!--
 **lucky798213/lucky798213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
