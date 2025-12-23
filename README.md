@@ -9,13 +9,20 @@
   </picture>
   <div>&nbsp;</div>
   
-  🎒 在校生一枚，偶然邂逅 Go 语言便一眼沦陷✨
-纯纯新手，真心喜欢 Go 的极简与高效，求各位技术大佬带飞～
-
-  ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=lucky798213&amp;show_icons=true&amp;theme=tokyonight)
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky798213&theme=github-compact&hide_border=true&area=true" />
-  ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=lucky798213&amp;layout=compact&amp;theme=tokyonight)
-
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <!-- 左侧文字区域 -->
+    <div style="flex: 1; min-width: 280px;">
+      🎒 在校生一枚，偶然邂逅 Go 语言便一眼沦陷✨<br>
+      纯纯新手，真心喜欢 Go 的极简与高效，求各位技术大佬带飞～
+    </div>
+    
+    <!-- 右侧图表区域 -->
+    <div style="flex: 2; min-width: 400px;">
+      <img src="https://github-stats.ubrong.com/api?username=lucky798213&show_icons=true&theme=tokyonight" alt="GitHub账户信息统计" style="width: 100%; margin-bottom: 8px;"/><br>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky798213&theme=github-compact&hide_border=true&area=true" alt="GitHub活动图"/><br>
+      <img src="https://github-stats.ubrong.com/api/top-langs/?username=lucky798213&layout=compact&theme=tokyonight" alt="GitHub最常用语言" style="width: 100%;"/>
+    </div>
+  </div>
 </div>
 <!--
 **lucky798213/lucky798213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
