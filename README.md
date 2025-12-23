@@ -15,8 +15,7 @@
   ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=lucky798213&amp;show_icons=true&amp;theme=tokyonight)
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky798213&theme=github-compact&hide_border=true&area=true" />
   ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=lucky798213&amp;layout=compact&amp;theme=tokyonight)
-  ![go]([https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white](https://img.shields.io/github/go-mod/go-version/:user/:repo
-))
+  ![Go](https://img.shields.io/badge/Go-1.21-00ADD8?style=flat-square&logo=go&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
