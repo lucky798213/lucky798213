@@ -8,7 +8,6 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
   <div>&nbsp;</div>
-
     🎒 在校生一枚，偶然邂逅 Go 语言便一眼沦陷✨
 纯纯新手，真心喜欢 Go 的极简与高效，求各位技术大佬带飞～
 
@@ -16,7 +15,12 @@
   ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=lucky798213&amp;show_icons=true&amp;theme=tokyonight)
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky798213&theme=github-compact&hide_border=true&area=true" />
   ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=lucky798213&amp;layout=compact&amp;theme=tokyonight)
-
+  ![go]([https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white](https://img.shields.io/github/go-mod/go-version/:user/:repo
+))
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 </div>
 <!--
 **lucky798213/lucky798213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
